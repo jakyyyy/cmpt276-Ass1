@@ -8,7 +8,12 @@ In this assignment, I built a webpage for the grade calculator. Basically, users
 Here is the link to code for easy acess:
 
 HTML: https://github.com/jakyyyy/cmpt276-Ass1/blob/master/app/views/welcome/calculator.html
+
+
 CSS: https://github.com/jakyyyy/cmpt276-Ass1/blob/master/app/assets/stylesheets/calculator.css
+
+
+
 JAVASCRIPT: https://github.com/jakyyyy/cmpt276-Ass1/blob/master/app/assets/javascripts/calculator.js
 
 

@@ -1,2 +1,2 @@
-# ruby-getting-started
-55555
+# README FILE FOR GRADE CALCULATOR
+
